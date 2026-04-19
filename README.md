@@ -1,5 +1,9 @@
 Air Quality Dashboard
 
+The dataset used in this project is available on Kaggle:
+
+https://www.kaggle.com/datasets/eliezerkanga/air-quality-dashboard-dataset
+
 Project Overview
 
 This project focuses on analyzing and visualizing air quality data using Python and Streamlit.  
